@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cmurp25
+- 👋 Hi, I’m @cmurp25 and my name is Caleb!
 - 👀 I’m interested in Programming and building computers
-- 🌱 I’m currently interested in learning Python 3
+- 🌱 I’m currently interested in learning Full Stack Development
 - 💞️ I’m looking to collaborate on many programming projects
 - 📫 How to reach me: by email @ cmurp25@clemson.edu
 
